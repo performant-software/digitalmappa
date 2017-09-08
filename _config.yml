@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Digital Mappa
-email: jamie@performantsoftware.com
+# email: jamie@performantsoftware.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to the DM website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: martinfoys
-github_username: jamiefolsom
+# github_username: jamiefolsom
 
 # Build settings
 markdown: kramdown
