@@ -14,3 +14,6 @@ There, you can:
 - Help others
 - See what people are working on
 
+For example, to change what shows in the mirador viewer, use this menu: 
+
+![mirador menu](/images/Screenshot 2017-09-01 11.41.47.png)
