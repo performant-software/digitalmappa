@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Visit the DM Forum
-permalink: /forum/
-published: true
+permalink: "/forum/"
+layout: page
 ---
 
 ### DM Forum
