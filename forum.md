@@ -1,6 +1,7 @@
 ---
 title: Visit the DM Forum
 permalink: "/forum/"
+position: 1
 layout: page
 ---
 
