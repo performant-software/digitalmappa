@@ -1,7 +1,7 @@
 ---
 title: Forum
 permalink: "/forum/"
-position: 2
+position: 3
 layout: page
 ---
 
