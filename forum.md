@@ -1,11 +1,11 @@
 ---
-title: Visit the DM Forum
+title: Forum
 permalink: "/forum/"
 position: 1
 layout: page
 ---
 
-### Forum
+### DM Forum
 
 The [DM Forum](http://forum.digitalmappa.org/) is a place where you can discuss ideas and questions with other DM users.
 
