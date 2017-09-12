@@ -5,7 +5,7 @@ position: 1
 layout: page
 ---
 
-### DM Forum
+### Forum
 
 The [DM Forum](http://forum.digitalmappa.org/) is a place where you can discuss ideas and questions with other DM users.
 
