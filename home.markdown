@@ -1,6 +1,8 @@
 ---
 title: Home
 date: 2017-10-04 16:14:00 Z
+Field name: 
+layout: home
 ---
 
 DM is a digital environment for the study and annotation of images and texts. It is a suite of tools, enabling scholars to gather and organize the evidence necessary to support arguments based in digitized resources. DM enables users to mark moments of interest in manuscripts, print materials, photographs, etc. and provide commentary on these resources and the relationships among them.
